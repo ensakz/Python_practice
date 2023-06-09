@@ -1,0 +1,4 @@
+bash: classes = 10, hours = 2, fee = 500.50 | MJ, AB
+PHP: classes = 30, hours = 3, fee = 1500 | MJ, AS, AB
+java: classes = 10, hours = 2, fee = 1000.34 | MJ, AS, PQ
+sql: classes = 15, hours = 3, fee = 1200 | AS, PQ, AB
