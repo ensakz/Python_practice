@@ -1,7 +1,4 @@
 '''
-Homework 6
-
-Due Date: November 8, 2022
 
 You are given a file directedGraph.txt corresponding to a directed graph.
 
